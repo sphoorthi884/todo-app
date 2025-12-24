@@ -37,7 +37,8 @@ A full-stack task management web application built using **React, Node.js, and E
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://https://todo-app-umber-rho-26.vercel.app/.vercel.app  
+- **Frontend:** https://todo-app-umber-rho-26.vercel.app
+
 - **Backend API:** "https://todo-backend-wnm2.onrender.com/tasks" 
 
 ---
