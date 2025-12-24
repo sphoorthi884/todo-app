@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/tasks";
+const API_URL = "https://todo-backend-wnm2.onrender.com"
 
 export const getTasks = async () => {
   const res = await fetch(API_URL);
